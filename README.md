@@ -63,9 +63,14 @@ For this project, I was responsible for developing:
 
 ## 🖼️ Screenshots
 
-| Home Page | Rooms Page | Events Page | About Us | Contact Us |
-|-----------|-----------|-------------|----------|------------|
-| ![Home](images/github/home.png) | ![Rooms](images/github/rooms.png) | ![Events](images/github/events.png) | ![About Us](images/github/about_us.png) | ![Contact](images/github/contact_us.png) |
+| Home Page | Rooms Page |
+|-----------|-----------|
+| ![Home](images/github/home.png) | ![Rooms](images/github/rooms.png) |
+
+| Events Page | About Us | Contact Us |
+|------------|---------|------------|
+| ![Events](images/github/events.png) | ![About](images/github/about_us.png) | ![Contact](images/github/contact_us.png) |
+
 
 ## 📜 License
 
