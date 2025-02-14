@@ -6,6 +6,8 @@ The **Foundation Hotel** website is designed to showcase the hotel’s services,
 
 As part of this project, my primary contribution was the **About Us** page, which presents the history of the hotel, its staff, and its services.
 
+---
+
 ## 🚀 Features
 
 - 🏡 **Home Page**: Overview of the hotel’s offerings and key services.
@@ -16,29 +18,47 @@ As part of this project, my primary contribution was the **About Us** page, whic
 - 🎨 **Single CSS File**: Ensures consistent styling across all pages.
 - 📱 **Fully Responsive Design**: Optimized for different screen sizes.
 
+---
+
+## 📌 Project Purpose
+
+This project demonstrates:
+
+- **Web Development & UI Design**: Creating an elegant, user-friendly interface for a hotel website.
+- **Consistent Styling**: Using a single CSS file to maintain uniform design across all pages.
+- **User Experience Optimization**: Ensuring seamless navigation and clear presentation of hotel information.
+- **Responsive Design Implementation**: Adapting layouts for mobile, tablet, and desktop screens.
+- **Team Collaboration**: Dividing tasks efficiently and ensuring cohesive integration of each section.
+
+---
+
 ## 📂 Project Structure
 
 ```
-📁 foundation_hotel_project
- ├── 📁 css/                  # Stylesheets
+📝 foundation_hotel_project
+ ├── 📝 css/                  # Stylesheets
  │   ├── index.css           # Single CSS file for the entire project
- ├── 📁 images/               # Image assets
- ├── 📁 js/                   # JavaScript files (if any)
- ├── 📁 webpages/             # Webpages for different sections
+ ├── 📝 images/               # Image assets
+ ├── 📝 js/                   # JavaScript files (if any)
+ ├── 📝 webpages/             # Webpages for different sections
  │   ├── index.html          # Homepage
  │   ├── about-us.html       # About Us page (**My Contribution**)
  │   ├── rooms.html          # Hotel rooms page
  │   ├── events.html         # Hotel events page
  │   ├── contact.html        # Contact page
  │   ├── test.html           # Additional test page
- ├── 📄 favicon.ico           # Website icon
+ ├── 📝 favicon.ico           # Website icon
 ```
+
+---
 
 ## 🛠 Technologies Used
 
-- **HTML5**: Structure of the website.
-- **CSS3**: Single stylesheet for maintaining design consistency.
-- **Responsive Web Design**: Ensures smooth adaptability across all devices.
+- **🌐 HTML5**: Structure of the website.
+- **🎨 CSS3**: Single stylesheet for maintaining design consistency.
+- **📱 Responsive Web Design**: Ensures smooth adaptability across all devices.
+
+---
 
 ## 📌 Prerequisites
 
@@ -46,11 +66,15 @@ To view the website, ensure you have:
 
 - A modern web browser (Chrome, Firefox, Edge, etc.).
 
+---
+
 ## 🏃‍♂️ How to Run the Project
 
 1️⃣ Open **index.html** in a web browser.
 
 2️⃣ Navigate through the site using the menu.
+
+---
 
 ## 🎯 My Contribution
 
@@ -61,7 +85,9 @@ For this project, I was responsible for developing:
 - **Hotel Features Section**: Highlighted the services provided to guests.
 - **Ensured seamless integration** with the overall design.
 
-## 🖼️ Screenshots
+---
+
+## 🖼 Screenshots
 
 | Home Page | Rooms Page |
 |-----------|-----------|
@@ -71,12 +97,12 @@ For this project, I was responsible for developing:
 |------------|---------|------------|
 | ![Events](images/github/events.png) | ![About](images/github/about_us.png) | ![Contact](images/github/contact_us.png) |
 
+---
 
-## 📜 License
+## 📝 License
 
 This project was developed for educational purposes as part of a **college final project**.
 
 ---
 
 💼 **Author:** Juan Jacobo Florez Monroy  | 🚀 **GitHub**: [GitHub Profile](https://github.com/jjacoboflorez95)
-
